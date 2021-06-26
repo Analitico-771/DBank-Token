@@ -8,8 +8,8 @@ This was the project that inspired me to learn blockchain development. I joined 
     * https://rinkeby.etherscan.io/tx/0x46f540a91177494f2f41a294b2b8271442ebc22a0302f3fbaa5a08e4deb83916
     
 * Tech Stack
-    * Languages: Solidity, Truffle CSS, JS, HTML 
-    * Other: Ganache, Ethereum, JSON, Postman, Web3, Babelrc
+    * Languages: Solidity, JS
+    * Other: Ganache, Ethereum, JSON, Postman, Web3, Truffle, Babelrc
 
 * Developer Team
     * Jose Tollinchi
